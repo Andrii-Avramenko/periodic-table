@@ -1,0 +1,2 @@
+h1,h2,h3,p,ul{margin:0;padding:0}ul{list-style:none}a{text-decoration:none}button{border:none;cursor:pointer}img{display:block;height:auto;width:100%;max-width:100%}input:focus{outline:none}.container{flex-wrap:wrap}.container,.element{display:flex;gap:10px}.element{justify-content:center;flex-direction:column;width:100px;height:100px;border:2px solid #000;text-align:center}.element-symbol{font-size:24px}
+/*# sourceMappingURL=/periodic-table/sass.068b94d8.css.map */

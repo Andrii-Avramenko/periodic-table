@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "https://andrii-avranmenko.github.io/periodic-table",
   "scripts": {
-    "start": "parcel ./*.html",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /periodic-table/"
   },
   "repository": {

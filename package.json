@@ -1,0 +1,24 @@
+{
+  "name": "periodic-table",
+  "version": "1.0.0",
+  "homepage": "https://andrii-avranmenko.github.io/periodic-table",
+  "scripts": {
+    "start": "parcel ./*.html",
+    "build": "parcel build src/*.html --public-url /periodic-table/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrii-Avramenko/periodic-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.97.3"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}

@@ -1,0 +1,31 @@
+@import "~node_modules/modern-normalize/modern-normalize.css";
+
+.container {
+  max-width: $mobile;
+  height: 100%;
+  margin: 0 auto;
+  padding: 50px 0;
+
+  @media screen and (min-width: $tablet) {
+    width: $tablet;
+    max-width: 668px;
+  }
+
+  @media screen and (min-width: $desktop) {
+    max-width: none;
+    width: 1110px;
+  }
+}
+
+.animate {
+  opacity: 0;
+  transform: translateY(32px);
+  transition:
+    opacity 0.5s ease,
+    transform 0.5s ease;
+
+  &.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

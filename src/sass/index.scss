@@ -1,4 +1,4 @@
-@use './variables' as *;
-@use './common' as *;
-@use './reset' as *;
-@use './components/_main' as *;
+@import './variables';
+@import './common';
+@import './reset';
+@import './components/_main';

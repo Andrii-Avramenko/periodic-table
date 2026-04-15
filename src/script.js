@@ -9,7 +9,10 @@ periodicTable.elements.forEach((element) => {
     containerTop.insertAdjacentHTML(
       "beforeend",
       `<div class="element g-${element.group} ${element.category}" style="--group: ${element.group};" data-name="${element.name}" data-category="${element.category}">
-            <p class="element-atomnum">${element.number}</p>
+            <div class="element-atominfo">
+              <p class="element-atomnum">${element.number}</p>
+              <p class="element-atommass">${Math.round(element.atomic_mass)}</p>
+            </div>
             <p class="element-symbol">${element.symbol}</p>
             <p class="element-name">${element.name}</p>
         </div>`,

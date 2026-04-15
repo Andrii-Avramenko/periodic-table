@@ -1,6 +1,6 @@
 9432
 105C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\sass\node_modules\@parcel\watcher\binding.gyp134160218064587377 0
-51C:\Users\Owner\Documents\GitHub\periodic-table\dist134181688878302411 1
+51C:\Users\Owner\Documents\GitHub\periodic-table\dist134207624690086737 1
 125C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\test\input\config134176636047532660 1
 123C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\Deferred.js134176636038638565 0
 99C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\sass\node_modules\node-addon-api\napi.h134160218061550300 0
@@ -60,7 +60,7 @@
 114C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\parcel\node_modules\@parcel\watcher\src\unix\legacy.cc134176636037615851 0
 123C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\package-manager\node_modules\@parcel\utils\lib\index.js134176636043081975 0
 113C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\transformer-babel\node_modules\.bin\json5.cmd134176636053717066 0
-78C:\Users\Owner\Documents\GitHub\periodic-table\src\sass\components\__main.scss134181688877356005 0
+78C:\Users\Owner\Documents\GitHub\periodic-table\src\sass\components\__main.scss134207623453819292 0
 138C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\optimizer-image\node_modules\@parcel\utils\src\generateBuildMetrics.js134176636039323745 0
 112C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\sass\node_modules\node-addon-api\tools\conversion.js134160218061648479 0
 120C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\test134176636043091987 1
@@ -85,7 +85,7 @@
 65C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\tslib134176636037429472 1
 94C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\utility-types\dist\mapped-types.js134176636033836736 0
 110C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134176636048121618 0
-60C:\Users\Owner\Documents\GitHub\periodic-table\src\script.js134176617148938106 0
+60C:\Users\Owner\Documents\GitHub\periodic-table\src\script.js134207621601666364 0
 99C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\parcel-reporter-clean-dist\package.json134176636038313708 0
 119C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\package-manager\node_modules\semver\functions\gt.js134176636037409546 0
 122C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\bundler-default\node_modules\@parcel\utils\src\hash.js134176636040590779 0
@@ -98,7 +98,7 @@
 56C:\Users\Owner\Documents\GitHub\periodic-table\.cache\fe134160211831856107 1
 79C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@swc\types\index.js134176636030972888 0
 87C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\sass\types\value\index.d.ts134160218062802453 0
-61C:\Users\Owner\Documents\GitHub\periodic-table\src\index.html134176636999665509 0
+61C:\Users\Owner\Documents\GitHub\periodic-table\src\index.html134207624363576200 0
 85C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\rust\package.json134176636035634002 0
 110C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-js\node_modules\has-flag\index.js134176636031182261 0
 107C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs134176636053198732 0
@@ -131,7 +131,7 @@
 76C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\rust\lib134176636035164517 1
 110C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\optimizer-html\node_modules\supports-color134176636033412742 1
 129C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\node-resolver-core\node_modules\@parcel\utils\src\Deferred.js134176636038658838 0
-68C:\Users\Owner\Documents\GitHub\periodic-table\src\sass\_common.scss134181688637051749 0
+68C:\Users\Owner\Documents\GitHub\periodic-table\src\sass\_common.scss134207624689155245 0
 119C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\package-manager\node_modules\color-convert\route.js134176636035135722 0
 91C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\caniuse-lite\data\regions\LU.js134160209256477594 0
 95C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\caniuse-lite\data\regions\alt-na.js134160209231158536 0
@@ -739,7 +739,7 @@
 100C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\caniuse-lite\data\features\css-shapes.js134160209249779019 0
 140C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\test\input\config\config.js134176636037049043 0
 88C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\ordered-binary\tests\test.js134176636034831615 0
-62C:\Users\Owner\Documents\GitHub\periodic-table\dist\index.html134181687561680032 0
+62C:\Users\Owner\Documents\GitHub\periodic-table\dist\index.html134207624363961668 0
 94C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\caniuse-lite\dist\lib\supported.js134160209260187228 0
 129C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\parcel-reporter-clean-dist\node_modules\fast-glob\out\readers\sync.js134176636040727090 0
 103C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\sass\node_modules\@parcel\watcher\src\linux134160218064735073 1
@@ -5130,7 +5130,7 @@
 115C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\optimizer-image\node_modules\@parcel\utils\test134176636046225449 1
 114C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\transformer-js\node_modules\@parcel\logger\lib134176636029725883 1
 121C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\types\node_modules\@parcel\workers\lib\core-worker.js134176636037379498 0
-78C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.d29bb997.js134181687561770418 0
+78C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.d29bb997.js134207623455126320 0
 112C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-css\node_modules\@parcel\logger\lib134176636029860285 1
 146C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\replaceBundleReferences.js134176636045048275 0
 118C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\types\node_modules\@parcel\workers\lib\cpuCount.js134176636037826180 0
@@ -7338,7 +7338,7 @@
 126C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\relativeUrl.js134176636044970536 0
 121C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\schema.js134176636045306817 0
 106C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\core\src\requests\AssetGraphRequest.js134176636041253669 0
-79C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.b07a87f3.css134181688878232518 0
+79C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.b07a87f3.css134207624690050813 0
 128C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\shared-buffer.js134176636045391972 0
 121C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\stream.js134176636045780350 0
 124C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\TapStream.js134176636045992299 0
@@ -9253,8 +9253,8 @@
 71C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\.bin\parcel134176636053739252 0
 73C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\.bin\sass.cmd134160218068277131 0
 91C:\Users\Owner\Documents\GitHub\periodic-table\node_modules\.bin\update-browserslist-db.cmd134160209287535520 0
-83C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.b07a87f3.css.map134181688878282439 0
-82C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.d29bb997.js.map134181687561800405 0
+83C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.b07a87f3.css.map134207624690076831 0
+82C:\Users\Owner\Documents\GitHub\periodic-table\dist\periodic-table.d29bb997.js.map134207623455176324 0
 69C:\Users\Owner\Documents\GitHub\periodic-table\dist\sass.0a7c4b30.css134176633285477985 0
 73C:\Users\Owner\Documents\GitHub\periodic-table\dist\sass.0a7c4b30.css.map134176633287528154 0
 69C:\Users\Owner\Documents\GitHub\periodic-table\dist\sass.80bb191f.css134160222938847946 0
